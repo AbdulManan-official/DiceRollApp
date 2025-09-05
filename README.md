@@ -11,12 +11,7 @@ Tap the button to roll the dice and enjoy smooth animations!
 - 📳 Vibration feedback when you roll a **6**  
 - 🎨 Clean modern UI  
 
----
 
-## 📸 Screenshots  
-(Add screenshots of the app here after running it)  
-
----
 
 ## 🚀 Installation  
 
