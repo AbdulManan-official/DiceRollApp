@@ -17,5 +17,6 @@ Tap the button to roll the dice and enjoy smooth animations!
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YourUsername/DiceRollApp.git
-   cd DiceRollApp
+git clone https://github.com/AbdulManan-official/DiceRollApp.git
+cd DiceRollApp
+   
